@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @asharde55
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m abhishek harde
+- 👀 
+- 🌱 I’m currently learning Python, MySQL, Tableau, Power BI, Machine leering
 - 📫 How to reach me asharde55@gmail.com
 
 <!---
