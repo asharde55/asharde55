@@ -1,6 +1,5 @@
-- 👋 Hi, I’m abhishek harde
-- 👀 
-- 🌱 I’m currently learning Python, MySQL, Tableau, Power BI, Machine leering
+- 👋 Hi, I’m abhishek harde  
+- 🌱 I’m currently learning Python, MySQL, Tableau, Power BI, Machine learning
 - 📫 How to reach me asharde55@gmail.com
 
 <!---
