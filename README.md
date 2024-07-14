@@ -1,5 +1,5 @@
 - 👋 Hi, I’m abhishek harde  
-- 🌱 I’m currently learning Python, MySQL, Tableau, Power BI, Machine learning
+- 🌱 Data Science enthusiast with over 2 years of experience as a Credit Analyst, complemented by hands-on experience as a Data Science Intern in a marketing company and comprehensive training in data science and analytics.
 - 📫 How to reach me asharde55@gmail.com
 
 <!---
